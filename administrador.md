@@ -1,0 +1,1 @@
+En pequeñas organizaciones esto es algo relativamente simple, algo que puede desarrollar perfectamente una persona, que suele trabajar sola. En organizaciones de cierta entidad empiezan a aparecer los equipos de sistema y los equipos de infraestructuras, que son más complejos cuanto mayor sea el sistema informático y mayor sea el número de aplicaciones o la complejidad de ésta.
